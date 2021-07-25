@@ -1,3 +1,5 @@
 Conteudo do Arquivo 1
 +
 Conteudo da branch master
+Conteudo do Arquivo 2
+
